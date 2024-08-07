@@ -1279,14 +1279,12 @@ header .container {
 
 
 .BIG {
-  font-size: 40px;
+  font-size: 30px;
   flex: auto;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
-
-  font-size: 90px;
   color: gold;
 }
 .TEST {
@@ -1309,7 +1307,7 @@ header .container {
 }
 
 .W3 {
-  font-size: 50px;
+  font-size: 20px;
   display: flex;
   text-align: center;
   box-sizing: border-box;
